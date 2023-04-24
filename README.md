@@ -7,4 +7,4 @@ whilst it's backend is written entirely in python
 I intend to make version of Aleph that is pure haskell at some point and deprecates all Python module with Haskell ones and vice-versa
 (a version of Aleph that is pure Python)
 
-I (SasoriZero) wrote this in 2022 thus before Luma Labs AI blew the lid off of NeRF Rendering and it became popular
+I (SasoriZero) wrote this in 2022 thus before Luma Labs AI blew the lid off of NeRF Rendering and it became popular, This application can be seen as an open source version of that same technology with added portions for exporting what it creates directly to Blender
